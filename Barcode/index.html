@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>Generate QR Code</title>
+
+    <script type="text/javascript" src="jsBarcode.min.js"></script>
+  </head>
+
+  <body>
+    <!-- <div type="text" id="txt_input" value="12345678" /> -->
+    <div id="txt_input">1234567890</div>
+    <button id="btn_generate">Generate Button</button>
+    <br /><br />
+    <svg id="barcode"></svg>
+    <script type="text/javascript">
+      var text = document.getElementById("txt_input").innerHTML;
+      JsBarcode("#barcode", text);
+    </script>
+  </body>
+</html>

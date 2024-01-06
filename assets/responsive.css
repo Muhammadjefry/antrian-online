@@ -1,0 +1,1302 @@
+@media screen and (max-width: 988px) {
+  nav.sticky {
+    padding: 0;
+    margin: 0;
+    height: 20%;
+  }
+  #navbarNav {
+    margin-top: -10px;
+  }
+  #navbarNav ul li {
+    margin-left: 30px;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 150px;
+    width: 800px;
+    height: 400px;
+    color: #fff;
+    padding: 20px;
+    left: 100px;
+  }
+  .tulisan1 h1 {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #h2 {
+    margin: 0 0 150px 0;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(50px);
+    font-size: 14px;
+  }
+  #text-about h2 {
+    transform: translateY(-45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(-90px);
+  }
+  .superiority {
+    transform: translateY(-100px);
+  }
+  .list-group-item .list-icon img {
+    position: relative;
+    top: -120px;
+  }
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: -100px;
+  }
+  /* #services .services-items #umum {
+    margin-top: -5px;
+  } */
+  /* #services .services-items img {
+    width: 30px;
+    height: 70px;
+    margin-bottom: -5px;
+  }
+  #services .services-items h4 {
+    font-size: 12px;
+    margin-bottom: -43px;
+  } */
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  footer h5 {
+    position: relative;
+    top: -70px;
+  }
+  #text1 {
+    transform: translateY(20px);
+  }
+  footer #small {
+    position: relative;
+    top: 20px;
+    right: 123px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -160px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -4240px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2470px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1700px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 968px) {
+  nav.sticky {
+    padding: 0;
+    margin: 0;
+    height: 20%;
+  }
+  #navbarNav {
+    margin-top: -15px;
+  }
+  #navbarNav ul li {
+    margin-left: 30px;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 150px;
+    width: 600px;
+    color: #fff;
+    height: 400px;
+    padding: 20px;
+    left: 100px;
+  }
+  .tulisan1 h1 {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(25px);
+    font-size: 13px;
+  }
+  #h2 {
+    margin: 0 0 150px 0;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -160px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -4240px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2520px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1690px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 800px) {
+  nav.sticky {
+    padding: 0;
+    height: 20%;
+  }
+  #navbarNav {
+    margin-top: -10px;
+  }
+  #navbarNav ul li {
+    margin-left: 30px;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 150px;
+    width: 600px;
+    color: #fff;
+    height: 400px;
+    padding: 20px;
+    left: 100px;
+  }
+  .tulisan1 h1 {
+    color: #ffffff;
+    font-size: 25px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -130px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -4240px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2470px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1650px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 777px) {
+  nav.sticky {
+    padding: 0;
+    height: 20%;
+  }
+  #navbarNav {
+    margin-top: -10px;
+  }
+  #navbarNav ul li {
+    margin-left: 30px;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 150px;
+    width: 600px;
+    color: #fff;
+    height: 400px;
+    padding: 20px;
+    left: 100px;
+  }
+  .tulisan1 h1 {
+    color: hsl(0, 0%, 100%);
+    font-size: 25px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: -70px;
+  }
+  #text-about {
+    transform: translateY(-50px);
+    font-size: 12px;
+  }
+  #text-about h2 {
+    transform: translateY(45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(50px);
+  }
+  .superiority {
+    transform: translateY(100px);
+  }
+  .list-group-item .list-icon img {
+    position: relative;
+    top: 50px;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: 50px;
+  }
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: 50px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -150px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -4200px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2500px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1650px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 700px) {
+  nav.sticky {
+    height: 20%;
+  }
+  #navbarNav {
+    margin-top: -10px;
+  }
+  #navbarNav ul li {
+    margin-left: 0;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 130px;
+    width: 550px;
+    color: #fff;
+    height: 400px;
+    padding: 20px;
+    left: 60px;
+  }
+  .tulisan1 h1 {
+    color: #ffffff;
+    font-size: 25px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #img-about {
+    transform: translateX(130px);
+    width: 250px;
+    height: 350px;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(-200px);
+    font-size: 10px;
+  }
+  #text-about h2 {
+    transform: translateY(-45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(-90px);
+  }
+  .superiority {
+    transform: translateY(-100px);
+  }
+  .list-group-item .list-icon img {
+    position: relative;
+    top: -120px;
+  }
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: -100px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -130px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -5200px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -3260px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1990px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 692px) {
+  #navbarNav {
+    font-size: 13px;
+    margin-top: -15px;
+    padding: 0;
+    /* justify-content: center; */
+    padding: 5px;
+  }
+  nav.sticky {
+    padding: 0;
+    margin: 0;
+    height: 20%;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 100px;
+    width: 500px;
+    font-size: 15px;
+    color: #fff;
+    height: 400px;
+    padding: 20px;
+    left: 25px;
+  }
+  .tulisan1 h1 {
+    color: #000;
+    font-size: 28px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #img-about {
+    transform: translateX(130px);
+    width: 250px;
+    height: 350px;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(-200px);
+    font-size: 10px;
+  }
+  #text-about h2 {
+    transform: translateY(-45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(-90px);
+  }
+  .superiority {
+    transform: translateY(-100px);
+  }
+  .list-group-item .list-icon img {
+    position: relative;
+    top: -120px;
+  }
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: -100px;
+  }
+  /* #services .services-items #umum {
+    margin-top: -5px;
+  } */
+  #services .services-items img {
+    width: 30px;
+    height: 70px;
+    margin-bottom: -5px;
+  }
+  #services .services-items h4 {
+    font-size: 12px;
+    margin-bottom: -43px;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  footer h5 {
+    position: relative;
+    top: -70px;
+  }
+  #text1 {
+    transform: translateY(20px);
+  }
+  footer #small {
+    position: relative;
+    top: 20px;
+    right: 123px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -120px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -4560px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2650px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1990px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 600px) {
+  #navbarNav {
+    font-size: 13px;
+    margin-top: -15px;
+    padding: 0;
+    /* justify-content: center; */
+    padding: 5px;
+  }
+  nav.sticky {
+    padding: 0;
+    margin: 0;
+    height: 20%;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 100px;
+    width: 500px;
+    font-size: 15px;
+    color: #fff;
+    height: 400px;
+    padding: 20px;
+    left: 25px;
+  }
+  .tulisan1 h1 {
+    color: #000;
+    font-size: 28px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #img-about {
+    transform: translateX(130px);
+    width: 250px;
+    height: 350px;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(-200px);
+    font-size: 10px;
+  }
+  #text-about h2 {
+    transform: translateY(-45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(-90px);
+  }
+  .superiority {
+    transform: translateY(-100px);
+  }
+  .list-group-item .list-icon img {
+    position: relative;
+    top: -120px;
+  }
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: -100px;
+  }
+  /* #services .services-items #umum {
+    margin-top: -5px;
+  } */
+  #services .services-items img {
+    width: 30px;
+    height: 70px;
+    margin-bottom: -5px;
+  }
+  #services .services-items h4 {
+    font-size: 12px;
+    margin-bottom: -43px;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  footer h5 {
+    position: relative;
+    top: -70px;
+  }
+  #text1 {
+    transform: translateY(20px);
+  }
+  footer #small {
+    position: relative;
+    top: 20px;
+    right: 123px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -100px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -4550px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2630px;
+
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1960px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 532px) {
+  #navbarNav {
+    font-size: 13px;
+    margin-top: -15px;
+    padding: 0;
+    /* justify-content: center; */
+    padding: 5px;
+  }
+  nav.sticky {
+    padding: 0;
+    margin: 0;
+    height: 20%;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 100px;
+    width: 470px;
+    height: 400px;
+    font-size: 15px;
+    color: #fff;
+    padding: 20px;
+    left: 25px;
+  }
+  .tulisan1 h1 {
+    color: #000;
+    font-size: 25px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #img-about {
+    transform: translateX(90px);
+    width: 200px;
+    height: 350px;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(-200px);
+    font-size: 10px;
+  }
+  #text-about h2 {
+    transform: translateY(-45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(-90px);
+  }
+  .superiority {
+    transform: translateY(-100px);
+  }
+  .list-group-item .list-icon img,
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: -100px;
+  }
+  /* #services .services-items #umum {
+    margin-top: -5px;
+  } */
+  #services .services-items img {
+    width: 30px;
+    height: 70px;
+    margin-bottom: -5px;
+  }
+  #services .services-items h4 {
+    font-size: 12px;
+    margin-bottom: -43px;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  /* footer h5 {
+    position: relative;
+    top: -70px;
+  } */
+  #text1 {
+    transform: translateY(20px);
+  }
+  footer #small {
+    position: relative;
+    top: 20px;
+    right: 123px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -100px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -6490px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2880px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1940px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 500px) {
+  #navbarNav {
+    font-size: 13px;
+    margin-top: -15px;
+    padding: 5px;
+    /* justify-content: center; */
+    /* padding: 5px; */
+  }
+  nav.sticky {
+    padding: 0;
+    margin: 0;
+    height: 20%;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 100px;
+    width: 450px;
+    color: #fff;
+    font-size: 15px;
+    height: 400px;
+    padding: 20px;
+    left: 25px;
+  }
+  .tulisan1 h1 {
+    color: #ffffff;
+    font-size: 25px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #img-about {
+    transform: translateX(90px);
+    width: 200px;
+    height: 350px;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(-200px);
+    font-size: 10px;
+  }
+  #text-about h2 {
+    transform: translateY(-45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(-90px);
+  }
+  .superiority {
+    transform: translateY(-100px);
+  }
+  .list-group-item .list-icon img,
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: -100px;
+  }
+  /* #services .services-items #umum {
+    margin-top: -5px;
+  } */
+  #services .services-items img {
+    width: 30px;
+    height: 70px;
+    margin-bottom: -5px;
+  }
+  #services .services-items h4 {
+    font-size: 12px;
+    margin-bottom: -43px;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  footer h5 {
+    position: relative;
+    top: -70px;
+  }
+  #text1 {
+    transform: translateY(20px);
+  }
+  footer #small {
+    position: relative;
+    top: 20px;
+    right: 123px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -90px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -6370px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2880px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1930px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 488px) {
+  #navbarNav {
+    font-size: 12px;
+    margin-top: -15px;
+    padding: 5px;
+    /* justify-content: center; */
+    /* padding: 5px; */
+  }
+  nav.sticky {
+    padding: 0;
+    margin: 0;
+    height: 20%;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 100px;
+    width: 430px;
+    font-size: 14px;
+    color: #fff;
+    height: 400px;
+    padding: 20px;
+    left: 25px;
+  }
+  .tulisan1 h1 {
+    color: #000;
+    font-size: 25px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #img-about {
+    transform: translateX(90px);
+    width: 200px;
+    height: 350px;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(-200px);
+    font-size: 10px;
+  }
+  #text-about h2 {
+    transform: translateY(-45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(-90px);
+  }
+  .superiority {
+    transform: translateY(-100px);
+  }
+  .list-group-item .list-icon img,
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: -100px;
+  }
+  /* #services .services-items #umum {
+    margin-top: -5px;
+  } */
+  #services .services-items img {
+    width: 30px;
+    height: 70px;
+    margin-bottom: -5px;
+  }
+  #services .services-items h4 {
+    font-size: 12px;
+    margin-bottom: -43px;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  footer h5 {
+    position: relative;
+    top: -70px;
+  }
+  #text1 {
+    transform: translateY(20px);
+  }
+  footer #small {
+    position: relative;
+    top: 20px;
+    right: 123px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -80px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -6280px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2840px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1915px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 450px) {
+  #navbarNav {
+    font-size: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
+  nav.sticky {
+    padding: 0;
+    margin: 0;
+    height: 20%;
+  }
+  .container .navbar-brand {
+    display: inline-block;
+    font-size: 1em;
+  }
+  .container .navbar-brand small {
+    margin-left: 30px;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 100px;
+    width: 400px;
+    font-size: 13px;
+    color: white;
+    height: 400px;
+    padding: 20px;
+    left: 25px;
+  }
+  .tulisan1 h1 {
+    color: #ffffff;
+    font-size: 25px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #img-about {
+    transform: translateX(90px);
+    width: 200px;
+    height: 350px;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(-200px);
+    font-size: 10px;
+  }
+  #text-about h2 {
+    transform: translateY(-45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(-90px);
+  }
+  .superiority {
+    transform: translateY(-100px);
+  }
+  .list-group-item .list-icon img,
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: -100px;
+  }
+  /* #services .services-items #umum {
+    margin-top: -5px;
+  } */
+  #services .services-items img {
+    width: 30px;
+    height: 70px;
+    margin-bottom: -5px;
+  }
+  #services .services-items h4 {
+    font-size: 12px;
+    margin-bottom: -43px;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -100px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -6140px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2840px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1900px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 400px) {
+  #navbarNav {
+    font-size: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
+  nav.sticky {
+    padding: 0;
+    margin: 0;
+    height: 20%;
+  }
+  .container .navbar-brand {
+    display: inline-block;
+    font-size: 1em;
+  }
+  .container .navbar-brand small {
+    margin-left: 30px;
+  }
+  .tulisan1 {
+    position: relative;
+    top: 100px;
+    width: 400px;
+    font-size: 13px;
+    color: white;
+    height: 400px;
+    padding: 20px;
+    left: 25px;
+  }
+  .tulisan1 h1 {
+    color: #ffffff;
+    font-size: 25px;
+  }
+  .tulisan1 p {
+    position: relative;
+    top: 100px;
+  }
+  #img-about {
+    transform: translateX(90px);
+    width: 200px;
+    height: 350px;
+  }
+  #text-about {
+    /* margin-bottom: 150px; */
+    transform: translateY(-200px);
+    font-size: 10px;
+  }
+  #text-about h2 {
+    transform: translateY(-45px);
+  }
+  #text-about h3,
+  p,
+  .check {
+    transform: translateY(-90px);
+  }
+  .superiority {
+    transform: translateY(-100px);
+  }
+  .list-group-item .list-icon img,
+  .list-group-item .list-text h3 {
+    position: relative;
+    top: -100px;
+  }
+  /* #services .services-items #umum {
+    margin-top: -5px;
+  } */
+  #services .services-items img {
+    width: 30px;
+    height: 70px;
+    margin-bottom: -5px;
+  }
+  #services .services-items h4 {
+    font-size: 12px;
+    margin-bottom: -43px;
+  }
+  #doctors .container p {
+    position: relative;
+    bottom: -100px;
+  }
+  #svg1 {
+    position: absolute;
+    top: -100px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg2 {
+    position: absolute;
+    top: 420px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg3 {
+    position: absolute;
+    bottom: -6140px;
+    left: 0;
+    z-index: -1;
+  }
+  #svg4 {
+    position: absolute;
+    bottom: -2840px;
+    left: 0;
+    z-index: 1;
+  }
+  #svg5 {
+    position: absolute;
+    bottom: -1900px;
+    left: 0;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 750px) {
+  #img-hero {
+    display: none;
+  }
+
+  #img-hero-mobile {
+    display: block;
+    width: 350px;
+    margin: 40px auto 0;
+  }
+  .jumbotron .container {
+    display: block;
+    height: auto;
+  }
+}
+@media screen and (max-width: 576px) {
+  body {
+    overflow-x: hidden;
+  }
+  #img-hero {
+    display: none;
+  }
+  #img-hero-mobile {
+    display: block;
+    width: 250px;
+    margin: 40px auto 0;
+  }
+  .jumbotron .container {
+    display: block;
+    height: auto;
+  }
+  .jumbotron .container .text-hero-mobile {
+    display: block;
+  }
+  .jumbotron .container .text-hero {
+    display: none;
+  }
+
+  #services .layout-services {
+    padding: 12px;
+  }
+  #services .container {
+    padding: 4px;
+  }
+  #services .layout-services .card-services {
+    margin: 12px;
+    padding: 6px;
+  }
+  #img-faq {
+    display: none;
+  }
+  #img-faq-mobile {
+    display: block;
+  }
+
+  /*responsive about page*/
+  #img-about {
+    width: 270px;
+    margin-bottom: 24px;
+  }
+  #img-hero-mobile.hospital {
+    display: block;
+    width: 300px;
+    margin: 40px auto 0;
+  }
+
+  /*masonry layout*/
+  .grid-wrapper > div {
+    grid-column: span 2;
+  }
+  /*
+	.grid-wrapper > div > img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		border-radius: 5px;
+	}*/
+}
